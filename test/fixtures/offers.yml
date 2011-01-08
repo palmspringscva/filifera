@@ -1,0 +1,19 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  property_name: 
+  subtitle: 
+  short_text: 
+  description: 
+  URL: 
+  offer_code: 
+  category_id: 1
+
+two:
+  property_name: 
+  subtitle: 
+  short_text: 
+  description: 
+  URL: 
+  offer_code: 
+  category_id: 1
